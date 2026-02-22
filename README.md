@@ -126,13 +126,6 @@ The project is divided on multiple sides :
 * Keras/TensorFlow : Frameworks used for the Deep Neural Network.
 * chessjs/chessboardjs : for the front-end chess engine.
 
-## Meta
-
-Rayan Samy Ramoul – [https://github.com/raysr](https://github.com/raysr)
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-
 ## Contributing
 
 1. Fork it (<https://github.com/raysr/Arcane-Chess/fork>)
